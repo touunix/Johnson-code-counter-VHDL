@@ -13,3 +13,10 @@ W przeprowadzonej symulacji oraz weryfikacji na płytce. Reset licznika został 
 Wyniki weryfikacji na płytce są przedstawione na wyjściach układu, czyli diodach świecących LED0, LED1, LED2 oraz LED3.
 
 ###### Wyniki symulacji:
+<img src="https://user-images.githubusercontent.com/79804729/159361489-d0b41d88-84ed-4255-94c3-0777f408f562.png" width="90%"></img>
+
+###### Opis plików:
+
+- top.vhd - główny plik projektu VHDL z algorytmem działania
+- tb.vhd - plik testbench
+- iup4.xdc - plik z ograniczeniami projektowymi dla **płytki Nexys-A7 (układ FPGA xc7a100tcsg324-1)**
