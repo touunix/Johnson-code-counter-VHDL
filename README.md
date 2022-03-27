@@ -7,10 +7,10 @@ In the simulation and verification on the board, the counter reset was performed
 The results of the verification on the board are presented on the outputs of the system, i.e. LED0, LED1, LED2 and LED3.
 
 ###### Simulation results
-<img src="https://user-images.githubusercontent.com/79804729/159361489-d0b41d88-84ed-4255-94c3-0777f408f562.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/79804729/159361489-d0b41d88-84ed-4255-94c3-0777f408f562.png" width="100%"></img>
 
 ###### Verification results
-<img src="https://user-images.githubusercontent.com/79804729/159362472-79b2d789-797f-4bc9-88fb-3e5cfe4b3185.gif" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/79804729/159362472-79b2d789-797f-4bc9-88fb-3e5cfe4b3185.gif" width="100%"></img> 
 
 ###### Files description
 - top.vhd - main VHDL design file with the operation algorithm
@@ -27,10 +27,10 @@ W przeprowadzonej symulacji oraz weryfikacji na płytce, reset licznika został 
 Wyniki weryfikacji na płytce są przedstawione na wyjściach układu, czyli diodach świecących LED0, LED1, LED2 oraz LED3.
 
 ###### Wyniki symulacji
-<img src="https://user-images.githubusercontent.com/79804729/159361489-d0b41d88-84ed-4255-94c3-0777f408f562.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/79804729/159361489-d0b41d88-84ed-4255-94c3-0777f408f562.png" width="100%"></img>
 
 ###### Wyniki weryfikacji
-<img src="https://user-images.githubusercontent.com/79804729/159362472-79b2d789-797f-4bc9-88fb-3e5cfe4b3185.gif" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/79804729/159362472-79b2d789-797f-4bc9-88fb-3e5cfe4b3185.gif" width="100%"></img> 
 
 ###### Opis plików
 
